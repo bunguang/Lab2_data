@@ -17,6 +17,7 @@ Sending and Receiving
   You can get the exact package numbers by counting how many lines there are in the `tcp.tr` file.
 
   * We have **already counted it**, so you don't have to do it again.
+  Here is the package numbers that we count.
 
   > **DSDV**
   5424(send)    5402(receive)
